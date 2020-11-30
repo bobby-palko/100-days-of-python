@@ -4,7 +4,7 @@
 Rock, Paper Scissors vs the Computer
 
 ## What about python does it showcase?
-This brings some randomization and lists into our code
+This brings some randomization and lists into our code, and some more fun ASCII!
 
 ## How do I run it?
 Clone or download this repo, and just run `python main.py` from inside this folder!
